@@ -1,5 +1,7 @@
 # Links to discussion notebooks
 
+- 03-03 - Useful tools for Latex beginners: [codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=en-us), [Mathpix](https://mathpix.com/), and [Overleaf](https://www.overleaf.com)
+
 - [02-24 - String and file](https://julia.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/yixiangLuo/math124&branch=main&subPath=6_String_and_file%2F6_String_and_file.ipynb&app=notebook)
 
 - [02-17 - Arbitrary precision and recursion](https://julia.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/yixiangLuo/math124&branch=main&subPath=5_Arbitrary_precision_and_recursion%2F5_Arbitrary_precision_and_recursion.ipynb&app=notebook)
