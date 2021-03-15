@@ -1,6 +1,6 @@
 # Links to discussion notebooks
 
-- 03-17 - application of triangular mesh generator; [Crossing Number Method](http://geomalgorithms.com/a03-_inclusion.html); [Triangle area](https://en.wikipedia.org/wiki/Triangle#Using_vectors); Triangular mesh generator algorithm.
+- 03-17 - Application of triangular mesh generator; [Crossing Number Method](http://geomalgorithms.com/a03-_inclusion.html); [Triangle area](https://en.wikipedia.org/wiki/Triangle#Using_vectors); Triangular mesh generator algorithm.
 
 - 03-03 - Why latex; useful tools for Latex beginners: [codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=en-us), [Mathpix](https://mathpix.com/), and [Overleaf](https://www.overleaf.com)
 
