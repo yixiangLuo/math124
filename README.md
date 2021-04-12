@@ -1,5 +1,7 @@
 # Links to discussion notebooks
 
+- 04-14 - Understand project 4: [Chan–Vese Segmentation](https://www.ipol.im/pub/art/2012/g-cv/article.pdf)
+
 - [04-07 -  Object-Oriented Programming](https://julia.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/yixiangLuo/math124&branch=main&subPath=notebooks/8_Object_Oriented_Programming.ipynb&app=notebook)
 
 - [03-31 -  Numerical ODE](https://julia.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/yixiangLuo/math124&branch=main&subPath=notebooks/7_Numerical_ODE.ipynb&app=notebook)
