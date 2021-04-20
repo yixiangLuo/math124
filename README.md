@@ -1,6 +1,6 @@
 # Links to discussion notebooks
 
-- [04-07 - Stochastic Gradient Descent](https://julia.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/yixiangLuo/math124&branch=main&subPath=notebooks/9_Stochastic_gradient_descent.ipynb&app=notebook)
+- [04-21 - Stochastic Gradient Descent](https://julia.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/yixiangLuo/math124&branch=main&subPath=notebooks/9_Stochastic_gradient_descent.ipynb&app=notebook)
 
 - 04-14 - Understand project 4: [Chan–Vese Segmentation](https://raw.githubusercontent.com/yixiangLuo/math124/main/other_files/Chan%E2%80%93Vese%20Segmentation.pdf)
 
